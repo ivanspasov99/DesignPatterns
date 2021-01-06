@@ -10,6 +10,4 @@ public class RatDuck extends Duck {
     public void fly() {
 
     }
-
-    // so wee need to implement methods
 }

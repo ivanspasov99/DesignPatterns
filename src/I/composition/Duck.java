@@ -17,6 +17,12 @@ public abstract class Duck {
 
     // when we extend the class we include:
 
+    // interfaces that isolate specific behavior/logic/problem
+        // FlyBehavior
+        // can be implemented: flyWithWings, FlyNo, flyWithCostume, flyWithRocket.......
+        // we can use this object in Every Object that has flying behavior, so we will separate flying behavior
+        // and the Duck class wont need to care about it
+
     // external behaviors that are isolated in self classes
     // things that are COMMON and applies for all ducks
     // we won't need to override some kind of LOGIC (if override fly function in inheritance package),
