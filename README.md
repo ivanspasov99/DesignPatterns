@@ -1,3 +1,4 @@
 # DesignPatterns
+> Read like book
 
-1. I - Composition/Inheritance Strategy
+I - **Composition/Inheritance Strategy**
