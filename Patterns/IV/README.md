@@ -29,17 +29,17 @@ abstract factory method in Pizza, to set the ingredients to the specific pizza.
 
 
 #### Problem: 
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/FactoryTaskv1.png)
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/FactoryTaskv2.png)
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/FactoryTaskv3.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/FactoryTaskv1.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/FactoryTaskv2.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/FactoryTaskv3.png)
 
 ### Factory Method Concept
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/FactoryConceptv1.png)
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/FactoryConceptv2.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/FactoryConceptv1.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/FactoryConceptv2.png)
 
 ### Dependency Inversion Principle
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/DIPv1.png)
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/DIPv2.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/DIPv1.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/DIPv2.png)
 
 ### Abstract Factory
-![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/AbstractFactoryv1.png)
+![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/IV/assets/AbstractFactoryv1.png)
