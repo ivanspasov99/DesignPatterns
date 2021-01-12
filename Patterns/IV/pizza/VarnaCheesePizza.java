@@ -1,23 +1,17 @@
 package IV.pizza;
 
-public class VarnaCheesePizza implements Pizza {
+import IV.factory.PizzaIngredientFactory;
+
+public class VarnaCheesePizza extends Pizza {
+    PizzaIngredientFactory ingredientFactory;
+
+    public VarnaCheesePizza(PizzaIngredientFactory ingredientFactory) {
+        this.ingredientFactory = ingredientFactory;
+    }
+
+    // so we are creating the specific cheese from ingredientFactory that we are not depending on (decoupled)
     @Override
     public void prepare() {
-
-    }
-
-    @Override
-    public void bake() {
-
-    }
-
-    @Override
-    public void cut() {
-
-    }
-
-    @Override
-    public void box() {
-
+        cheese = ingredientFactory.createCheese();
     }
 }
