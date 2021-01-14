@@ -1,7 +1,7 @@
 ## Command Pattern
 Encapsulating method invocation
 
-### Command Pattern Ideas:
+### Command Pattern Ideas: 
 1. **The Command Pattern allows you to decouple the requester of an action from the object that actually performs
 the action. So, here the requester would be the remote control, and the object that performs the action would 
 be an instance of one of your vendor classes.**

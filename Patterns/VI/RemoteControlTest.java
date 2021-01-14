@@ -1,6 +1,10 @@
 package VI;
 
-import VI.devices.Light;
+import VI.commands.Command;
+import VI.commands.LightOffCommand;
+import VI.commands.LightOnCommand;
+import VI.invoker.SimpleRemoteControl;
+import VI.receiver.Light;
 
 public class RemoteControlTest {
     public static void main(String[] args) {

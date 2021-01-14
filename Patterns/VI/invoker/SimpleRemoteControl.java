@@ -1,4 +1,6 @@
-package VI;
+package VI.invoker;
+
+import VI.commands.Command;
 
 public class SimpleRemoteControl {
     Command[] onCommands;

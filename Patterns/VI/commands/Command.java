@@ -1,4 +1,4 @@
-package VI;
+package VI.commands;
 
 public interface Command {
     public void execute();

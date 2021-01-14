@@ -1,6 +1,6 @@
-package VI;
+package VI.commands;
 
-import VI.devices.Light;
+import VI.receiver.Light;
 
 public class LightOffCommand implements Command {
     Light light;

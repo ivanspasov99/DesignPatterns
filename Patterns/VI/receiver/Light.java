@@ -1,4 +1,4 @@
-package VI.devices;
+package VI.receiver;
 
 public class Light {
     public void on() {
