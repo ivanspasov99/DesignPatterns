@@ -1,4 +1,4 @@
-#### Decorator Pattern
+## Decorator Pattern
 **Structural Pattern**
 
 
@@ -27,16 +27,16 @@ So for the sake of simplicity, we can decorate Beverage with Ice or Mocha... or 
 We can create a CondimentPrettyPrint Decorator, who will modify the description.
 Or we can user map, array list in some way to save what addons to the beverage we have.
 
-#### Problem: 
+## Problem: 
 ![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/DecoratorTask.png)
 
-#### Decorator Concept
+## Decorator Concept
 ![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/DecoratorConcept.png)
 ![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/DecoratorConceptExample.png)
 
-#### Real Life Example
+## Real Life Example
 ![alt text](https://github.com/ivanspasov99/DesignPatterns/blob/master/Patterns/III/assets/RealLifeExample.png)
 
-#### Links with a different kind of examples:
+### Links with a different kind of examples:
 - https://sourcemaking.com/design_patterns/decorator
 - https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm

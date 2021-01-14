@@ -1,6 +1,7 @@
-#### Strategy Pattern
-###### Problem: ***Composition over Inheritance***
+## Strategy Pattern
+#### Problem: ***Composition over Inheritance***
 
+### Strategy Pattern Idea: 
 1. Better **HAS A**, than **IS A**
 2. Example how to(not) apply open-closed principle
 3. Do not repeat code even you implement functions in different subclasses
