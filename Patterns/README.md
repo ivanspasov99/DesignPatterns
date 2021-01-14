@@ -4,3 +4,4 @@
 ###### II  - **Observer Pattern**
 ###### III - **Decorator Pattern**
 ###### IV  - **Factory Pattern**
+###### V   - **Singleton Pattern**

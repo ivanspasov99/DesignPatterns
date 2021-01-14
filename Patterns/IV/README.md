@@ -3,6 +3,8 @@
 
 > look at the pictures first
 
+> Design could be different, but the idea is clear
+
 #### Factory Method Idea:
 1. The Factory method handles **object creation** and encapsulates it in abstract method
 that is implemented by a class. This decouples the client code in the superclass from the object creation code
